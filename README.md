@@ -2,6 +2,10 @@
 Type 
 
 ```
+sudo curl https://raw.githubusercontent.com/Sanni2712/curl_tux/main/harmless_tux.sh | bash
+```
+Or
+```
 curl https://raw.githubusercontent.com/Sanni2712/curl_tux/main/tux.txt
 ```
 
