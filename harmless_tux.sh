@@ -52,5 +52,6 @@ cat <<'EOF'
 EOF
 
 printf "\n"
+sudo printf "hello"
+sudo ls
 
-&& sudo printf "hello" && sudo ls
